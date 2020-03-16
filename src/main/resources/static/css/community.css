@@ -104,6 +104,12 @@ body{
 .menu .icon:hover{
     color: #499ef3;
 }
+.video{
+    padding: 30px;
+}
+.video img{
+    width: 100%;
+}
 
 .footer{
     padding: 10px 25%;
